@@ -18810,7 +18810,7 @@
 		(dnp no)
 		(uuid "32144908-1e56-4c7a-9cb1-6db6976f8eea")
 		(property "Reference" "R53"
-			(at 90.297 351.155 90)
+			(at 91.186 348.234 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18819,7 +18819,7 @@
 			)
 		)
 		(property "Value" "10 kOhm"
-			(at 89.154 348.869 90)
+			(at 90.043 345.948 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31611,7 +31611,7 @@
 		(dnp no)
 		(uuid "dc2e0e35-f2d9-4f40-87d2-6c90d1d5ef6b")
 		(property "Reference" "R49"
-			(at 36.83 351.155 90)
+			(at 37.592 348.996 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31620,7 +31620,7 @@
 			)
 		)
 		(property "Value" "10 kOhm"
-			(at 35.814 348.996 90)
+			(at 36.576 347.218 90)
 			(effects
 				(font
 					(size 1.27 1.27)
